@@ -1,0 +1,21 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "description": "NLW #1",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js",
+    "init-database": "node src/database/db.js"
+  },
+  "keywords": [],
+  "author": "Everton Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}

@@ -1,0 +1,13 @@
+BACKEND
+
+Responsabilidades 
+    -receber pedidos do cliente
+    -preparar os ṕedidos (regra de negócio)
+    -enviar respostas
+    -tratar os dados
+
+Tecnologias
+    -linguagem: Js
+    -Node.Js
+    -Banco de dados: SQL
+    -SQLite
