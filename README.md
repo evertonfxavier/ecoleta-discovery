@@ -24,6 +24,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+<br />
+
+Projeto desenvolvino com base no NLW #1 starter. Foi utilizado html, css, javascript e nunjuks no front-end, node no back-end e sqlite3 para o banco de dados.
+<br />
 
 ## 🔖 Layout
 
